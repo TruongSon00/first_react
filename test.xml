@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookOrder>
+    <dateOrder>09-12-2021</dateOrder>
+    <customer>
+        <title>Khach vip</title>
+        <name>Truong Son</name>
+    </customer>
+    <book>
+        <name>hon trom 55 lan</name>
+        <author>Diep lac vo tam</author>
+    </book>
+    <book>
+        <name>ngu cung soi</name>
+        <author>Diep lac vo tam</author>
+    </book>
+</bookOrder>
